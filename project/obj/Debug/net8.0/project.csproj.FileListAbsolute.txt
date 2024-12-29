@@ -1,0 +1,14 @@
+/Users/victorien/Desktop/BACC 1 UQAR/mes projets github a suivre/Uno_Game/project/bin/Debug/net8.0/project
+/Users/victorien/Desktop/BACC 1 UQAR/mes projets github a suivre/Uno_Game/project/bin/Debug/net8.0/project.deps.json
+/Users/victorien/Desktop/BACC 1 UQAR/mes projets github a suivre/Uno_Game/project/bin/Debug/net8.0/project.runtimeconfig.json
+/Users/victorien/Desktop/BACC 1 UQAR/mes projets github a suivre/Uno_Game/project/bin/Debug/net8.0/project.dll
+/Users/victorien/Desktop/BACC 1 UQAR/mes projets github a suivre/Uno_Game/project/bin/Debug/net8.0/project.pdb
+/Users/victorien/Desktop/BACC 1 UQAR/mes projets github a suivre/Uno_Game/project/obj/Debug/net8.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorien/Desktop/BACC 1 UQAR/mes projets github a suivre/Uno_Game/project/obj/Debug/net8.0/project.AssemblyInfoInputs.cache
+/Users/victorien/Desktop/BACC 1 UQAR/mes projets github a suivre/Uno_Game/project/obj/Debug/net8.0/project.AssemblyInfo.cs
+/Users/victorien/Desktop/BACC 1 UQAR/mes projets github a suivre/Uno_Game/project/obj/Debug/net8.0/project.csproj.CoreCompileInputs.cache
+/Users/victorien/Desktop/BACC 1 UQAR/mes projets github a suivre/Uno_Game/project/obj/Debug/net8.0/project.dll
+/Users/victorien/Desktop/BACC 1 UQAR/mes projets github a suivre/Uno_Game/project/obj/Debug/net8.0/refint/project.dll
+/Users/victorien/Desktop/BACC 1 UQAR/mes projets github a suivre/Uno_Game/project/obj/Debug/net8.0/project.pdb
+/Users/victorien/Desktop/BACC 1 UQAR/mes projets github a suivre/Uno_Game/project/obj/Debug/net8.0/project.genruntimeconfig.cache
+/Users/victorien/Desktop/BACC 1 UQAR/mes projets github a suivre/Uno_Game/project/obj/Debug/net8.0/ref/project.dll
